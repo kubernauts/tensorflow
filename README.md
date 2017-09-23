@@ -10,7 +10,7 @@ Questions: [https://kubernauts-slack-join.herokuapp.com/](https://kubernauts-sla
 Introduction
 ---
 Every person falls in love with someone so deeply at some part of their lives that they can live the rest of their life meaningfully with that person." Love isn't like any other relationship as we know. If you get to ask some young lovers, they just say its more of a feeling of attachment of two understanding hearts than a kind of relationship. Many believe that love is the most gifted asset of anyone's life.
-
+        
 
 Serving Inception Model with TensorFlow Serving and Kubernetes
 
