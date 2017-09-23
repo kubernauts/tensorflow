@@ -20,6 +20,11 @@ To learn more about TensorFlow Serving, we recommend TensorFlow Serving basic tu
 
 To learn more about TensorFlow Inception model, we recommend Inception in TensorFlow.
 
-Part 0 shows how to create a TensorFlow Serving Docker image for deployment
-Part 1 shows how to run the image in local containers.
-Part 2 shows how to deploy in Kubernetes.
+`Part 0: I will show how to create a TensorFlow Serving Docker image for deployment`
+
+`Part 1: I will show how to run the image in local containers and classify cat images`
+
+`Part 2: I will show how to deploy in Kubernetes and classify cat images`
+
+
+
