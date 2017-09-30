@@ -38,4 +38,5 @@ The assumputions are made:
 3. You have a basic understanding of machine learning [https://www.coursera.org/learn/machine-learning]
 4. You have a basic understanding of Tensorflow [https://www.youtube.com/watch?v=cKxRvEZd3Mw]
 
-I will provide li
+Above I provided some links to help you get started on addressing those assumptions
+
