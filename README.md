@@ -28,3 +28,7 @@ To learn more about TensorFlow Inception model, we recommend Inception in Tensor
 
 
 
+Part 0
+---
+
+Lets get started building the dockerfile we will use
