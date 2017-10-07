@@ -32,7 +32,7 @@ Part 0
 ---
 
 Lets get started building the dockerfile we will use.
-The assumputions are made:
+The assumptions are made:
 1. You have a working knowledge of docker [https://engineering.hipolabs.com/understand-docker-without-losing-your-shit/]
 2. You have a working knowledge of Kubernetes [https://kubernauts.slack.com/messages/C71S057S7]
 3. You have a basic understanding of machine learning [https://www.coursera.org/learn/machine-learning]
