@@ -1,11 +1,13 @@
 Tensorflow on Kubernetes: A Love Story
 ---
-Last update: September 30, 2017
+Last update: April 16, 2018
+
 
 Author: @kubernauts
 
 Questions: [https://kubernauts-slack-join.herokuapp.com/](https://kubernauts-slack-join.herokuapp.com/)
 
+Meetup Registration: https://www.meetup.com/kubernauts/events/243546992/
 
 Introduction
 ---
